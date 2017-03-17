@@ -1,0 +1,31 @@
+PyData Dask
+
+Setup:
+
+Dask Cluster (Ubuntu)
+
+Terminal1 (scheduler)
+$ virtualenv pydata
+$ source pydata/bin/activate
+$ pip install -r requirements.txt 
+$ dask-scheduler
+
+Terminal2 (worker)
+$ source pydata/bin/activate
+$ dask-worker --nprocs=8 0.0.0.0:8786
+
+
+Dask Worker (Windows)
+$ virtualenv pydata
+$ source pydata/bin/activate
+$ pip install -r requirements.txt 
+$ dask-worker --nprocs=8 10.195.128.140:8786
+
+
+Dask Client (OSX)
+$ virtualenv pydata
+$ source pydata/bin/activate
+$ pip install -r requirements.txt 
+$ ipython notebook
+
+
