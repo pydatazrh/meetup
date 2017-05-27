@@ -15,5 +15,3 @@ In technical terms related to theme of the meeting, I will briefly show the appl
 Previously trained and practiced as a systems engineer, currently I am a postdoc researcher at the chair for Computer Aided Architectural Design (CAAD), ETH Zurich. In my PhD I was focused on theories of computational modeling and issues of “representation” and “idealization” in complex systems.
 From last semester I have started teaching “Data Driven Modeling” to graduate architecture and design students at ETH. Parallel to this, I am concentrated on several applied machine-learning projects. I have conducted several research projects in different fields such as manufacturing systems, urban traffic dynamics, urban design, air pollution modeling, networked economy and systemic risk, natural language processing, geo-visualization, real estate analysis and recently on data driven water flow simulation.
 For further information about my works, please visit me [here](www.vahidmoosavi.com)
-
-Presentation can be viewed [here](/PyData_20170216.html)
