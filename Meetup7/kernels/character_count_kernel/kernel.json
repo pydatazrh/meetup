@@ -1,0 +1,6 @@
+{
+  "argv": ["python3", "-m", "character_count_kernel",
+    "-f", "{connection_file}"],
+    "display_name": "Character count kernel",
+    "language": "python"
+}
