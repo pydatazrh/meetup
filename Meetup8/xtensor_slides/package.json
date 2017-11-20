@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "reveal.js@^3.4.1",
+        "scope": null,
+        "escapedName": "reveal.js",
+        "name": "reveal.js",
+        "rawSpec": "^3.4.1",
+        "spec": ">=3.4.1 <4.0.0",
+        "type": "range"
+      },
+      "/home/wolfv/Documents/quantstack-talks/2017-09-05-PyDataZurich-xtensor"
+    ]
+  ],
+  "_from": "reveal.js@>=3.4.1 <4.0.0",
+  "_id": "reveal.js@3.5.0",
+  "_inCache": true,
+  "_location": "/reveal.js",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/reveal.js-3.5.0.tgz_1494228673598_0.7387809697538614"
+  },
+  "_npmUser": {
+    "name": "hakimel",
+    "email": "hakim.elhattab@gmail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "reveal.js@^3.4.1",
+    "scope": null,
+    "escapedName": "reveal.js",
+    "name": "reveal.js",
+    "rawSpec": "^3.4.1",
+    "spec": ">=3.4.1 <4.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/reveal.js/-/reveal.js-3.5.0.tgz",
+  "_shasum": "95545949ad682636acecfdaea05cf0ca892d442d",
+  "_shrinkwrap": null,
+  "_spec": "reveal.js@^3.4.1",
+  "_where": "/home/wolfv/Documents/quantstack-talks/2017-09-05-PyDataZurich-xtensor",
+  "author": {
+    "name": "Hakim El Hattab",
+    "email": "hakim.elhattab@gmail.com",
+    "url": "http://hakim.se"
+  },
+  "bugs": {
+    "url": "https://github.com/hakimel/reveal.js/issues"
+  },
+  "dependencies": {},
+  "description": "The HTML Presentation Framework",
+  "devDependencies": {
+    "express": "~4.14.0",
+    "grunt": "~1.0.1",
+    "grunt-autoprefixer": "~3.0.3",
+    "grunt-cli": "~1.2.0",
+    "grunt-contrib-connect": "~0.11.2",
+    "grunt-contrib-cssmin": "~0.14.0",
+    "grunt-contrib-jshint": "~0.11.3",
+    "grunt-contrib-qunit": "~1.2.0",
+    "grunt-contrib-uglify": "~0.9.2",
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-retire": "~0.3.10",
+    "grunt-sass": "~1.2.0",
+    "grunt-zip": "~0.17.1",
+    "mustache": "~2.2.1",
+    "node-sass": "~3.13.0",
+    "socket.io": "^1.4.8"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "95545949ad682636acecfdaea05cf0ca892d442d",
+    "tarball": "https://registry.npmjs.org/reveal.js/-/reveal.js-3.5.0.tgz"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "gitHead": "360bc940062711db9b8020ce4e848f6c37014481",
+  "homepage": "http://lab.hakim.se/reveal-js",
+  "license": "MIT",
+  "main": "js/reveal.js",
+  "maintainers": [
+    {
+      "name": "hakimel",
+      "email": "hakim.elhattab@gmail.com"
+    }
+  ],
+  "name": "reveal.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hakimel/reveal.js.git"
+  },
+  "scripts": {
+    "build": "grunt",
+    "start": "grunt serve",
+    "test": "grunt test"
+  },
+  "subdomain": "revealjs",
+  "version": "3.5.0"
+}
